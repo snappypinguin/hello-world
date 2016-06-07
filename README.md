@@ -1,2 +1,2 @@
 # hello-world
-Learning github
+Learning github to organize my thesis codes. 
